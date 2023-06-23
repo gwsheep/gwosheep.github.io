@@ -10,5 +10,7 @@ public class Prc {
 		
 		String d = "abc";
 		System.out.println(d);
+		
+		String e = "123";
 	}
 }
