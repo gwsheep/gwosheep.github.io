@@ -8,6 +8,9 @@ public class Prc2 {
 		String c = a+b;
 		System.out.println(c);
 		
+		int abc = 123;
+		System.out.println(abc);
+		
 		
 		
 	}
